@@ -2,7 +2,7 @@
 
 /********/
 /*
-Problem asked by Google.
+Problem asked by Google get from daily challenges.
 
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 
